@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.App {
+  text-align: center;
+}
+
+.dark {
+  background-color: #282c34;
+  color: white;
+}
+
+.light {
+  background-color: #fff;
+  color: black;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.weather-info {
+  margin-top: 20px;
+}
+
+.search-container input, .search-container button {
+  padding: 10px;
+  margin: 5px;
+}
+
