@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weather-redux-app/static/css/main.36fcb1b7.chunk.css",
+    "main.js": "/Weather-redux-app/static/js/main.9191482c.chunk.js",
+    "main.js.map": "/Weather-redux-app/static/js/main.9191482c.chunk.js.map",
+    "runtime~main.js": "/Weather-redux-app/static/js/runtime~main.e49c781c.js",
+    "runtime~main.js.map": "/Weather-redux-app/static/js/runtime~main.e49c781c.js.map",
+    "static/js/2.09f37c5a.chunk.js": "/Weather-redux-app/static/js/2.09f37c5a.chunk.js",
+    "static/js/2.09f37c5a.chunk.js.map": "/Weather-redux-app/static/js/2.09f37c5a.chunk.js.map",
+    "index.html": "/Weather-redux-app/index.html",
+    "precache-manifest.a3b94ae3357343d97119fdb4cdd1dcdc.js": "/Weather-redux-app/precache-manifest.a3b94ae3357343d97119fdb4cdd1dcdc.js",
+    "service-worker.js": "/Weather-redux-app/service-worker.js",
+    "static/css/main.36fcb1b7.chunk.css.map": "/Weather-redux-app/static/css/main.36fcb1b7.chunk.css.map"
+  }
+}
