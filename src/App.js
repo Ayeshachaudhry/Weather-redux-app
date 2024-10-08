@@ -2,7 +2,6 @@
 
 import React, { Suspense } from 'react';
 import { Provider, useDispatch, useSelector } from 'react-redux';
-import { configureStore } from '@reduxjs/toolkit';
 import { fetchWeather } from './redux/weatherSlice';
 import WeatherDisplay from './components/WeatherDisplay';
 import SearchBox from './components/SearchBox';

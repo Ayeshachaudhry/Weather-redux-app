@@ -2,7 +2,7 @@
   "name": "weather-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ayeshachaudhry.github.io/Weather-redux-app/",
+  "homepage": "https://Ayeshachaudhry.github.io/Weather-redux-app/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "@testing-library/jest-dom": "^5.17.0",
